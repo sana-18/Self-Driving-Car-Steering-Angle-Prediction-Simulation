@@ -1,6 +1,7 @@
 # 🚗 Self-Driving Car Simulation
 
 This repository contains a project that demonstrates end-to-end steering angle prediction for self-driving cars using deep learning.
+This project was developed as part of the AI Project Creation Module at the Higher School of Technology of Meknès.
 
 ## 📌 Overview
 
